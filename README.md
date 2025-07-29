@@ -4,13 +4,13 @@
 
 ## 🚀 Live Demo
 
-[View the Live App](#) *(Add your deployed URL here once hosted)*
+[View the Live App](https://weatherwizardapp.netlify.app/) 
 
 ---
 
 ## 📸 Preview
 
-![Weather Wizard Screenshot](./screenshot.png)
+![Weather Wizard Screenshot](/public/screenshot.png)
 
 ---
 
