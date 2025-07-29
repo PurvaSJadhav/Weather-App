@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: 
+    linear-gradient(to right, #a1c4fd, #c2e9fb),
+    url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1400&q=60') no-repeat center center fixed;
+  background-size: cover;
+  background-blend-mode: lighten;
+  background-color: rgba(255, 255, 255, 0.6); /* softens the background */
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-container {
+  padding: 1rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
