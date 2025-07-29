@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-[View the Live App](https://weatherwizardapp.netlify.app/) 
+[Visit the Weather Wizard App](https://weatherwizardapp.netlify.app/) 
 
 ---
 
